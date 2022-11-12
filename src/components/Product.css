@@ -1,0 +1,12 @@
+.productsPage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 40px auto;
+}
+.productsPage img{
+    border-radius: 100px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    
+}

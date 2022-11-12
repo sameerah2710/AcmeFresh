@@ -1,0 +1,48 @@
+.head{
+    background-color: rgb(140, 255, 217);
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.head p{
+    font-size: 56px;
+    font-weight: 700;
+}
+.controllers{
+    display: flex;
+}
+.conP{
+margin: auto;
+padding-bottom: 20px;
+text-align: center;
+}
+.conPH{
+    text-align: center;
+    font-size: 42px;
+    font-weight: 700;
+}
+.conPP{
+    display: flex;
+    justify-content: space-around;
+}
+.conPPL{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.info{
+    padding:50px 0px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+}
+.info h1, p{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    align-items: center;
+    margin: auto;
+}

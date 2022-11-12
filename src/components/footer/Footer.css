@@ -1,0 +1,30 @@
+.footer{
+    background-color: #404a3d;
+    display: flex;
+    height: 300px;
+    padding:50px 150px;
+    margin: 0%;
+    color: aliceblue;
+    justify-content: space-around;
+}
+.verticalDiv{
+    height: 300px;
+    margin: 0px 20px ;
+    border-left: 1px solid aliceblue;
+}
+.footerAcmeFresh ,.footerWalkThrough, .footerBusinessHours, .footerContactUs{
+    width:20%;
+}
+p{
+    font-size: 18px;
+    text-align:justify;
+}
+.socialMediaIcon{
+    display: flex;
+    justify-content:flex-start;
+    gap: 10px;
+}
+.socialMediaIcon >a> img{
+    height: 20px;
+    width: 20px;
+}
